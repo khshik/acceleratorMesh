@@ -4598,6 +4598,13 @@ body.isScrolling #backToTop {
     transition: background-color .25s ease-in-out;
 }
 
+img.center-align {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120%;
+}
+
 .cart--widget .remove:before {
     transform: rotate(45deg);
 }
