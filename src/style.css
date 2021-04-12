@@ -981,7 +981,7 @@ label > span {
 .pb--15 { padding-bottom: 15px; }
 .pb--20 { padding-bottom: 20px; }
 .pb--30 { padding-bottom: 30px; }
-.pb--40 { padding-bottom: 40px; }
+.pb--40 { padding-bottom: 40px;  }
 .pb--50 { padding-bottom: 50px; }
 .pb--60 { padding-bottom: 60px; }
 .pb--70 { padding-bottom: 70px; }
@@ -4598,7 +4598,7 @@ body.isScrolling #backToTop {
     transition: background-color .25s ease-in-out;
 }
 
-img.center-align {
+center-align {
     display: block;
     margin-left: auto;
     margin-right: auto;
